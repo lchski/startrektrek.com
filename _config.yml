@@ -23,7 +23,7 @@ url: "https://startrektrek.com" # the base hostname & protocol for your site, e.
 # Build settings
 markdown: kramdown
 timezone: America/Toronto
-gems:
+plugins:
   - jekyll-feed
 
 # Exclude from processing.
